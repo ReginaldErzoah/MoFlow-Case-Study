@@ -1,5 +1,6 @@
 This contains all User Research documents as listed below:
 1. User Personas
-2. User Flow
-3. Empathy Map
-4. User Research Summary
+2. User Journey
+3. User Flow
+4. Empathy Map
+5. User Research Summary
