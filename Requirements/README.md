@@ -7,3 +7,4 @@ This contains all Requirement documents as listed below:
 6. Acceptance Criteria.
 7. Requirements Traceability Matrix.
 8. Data Dictionary.
+9. Entity Relational Diagram
