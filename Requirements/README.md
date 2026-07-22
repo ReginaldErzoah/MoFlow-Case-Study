@@ -3,7 +3,7 @@ This contains all Requirement documents as listed below:
 2. Functional Requirements.
 3. Non-functional Requirements.
 4. Business Rules.
-5. User Stories.
+5. User Stories Catalog.
 6. Acceptance Criteria.
 7. Requirements Traceability Matrix.
 8. Data Dictionary.
