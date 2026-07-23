@@ -141,7 +141,8 @@ MoFlow-Business-Analysis-Case-Study/
 │
 ├── Assets/
 │   ├── moflow-icon.png
-│   └── MoFlow Logo.png
+│   ├── MoFlow Logo.png
+│   └── MoFlow Logo (B&W).png
 │
 └── Presentation/
     ├── MoFlow Case Study.pdf
