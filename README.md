@@ -139,6 +139,10 @@ MoFlow-Business-Analysis-Case-Study/
 │   ├── Product Backlog.pdf
 │   └── Release Plan.pdf
 │
+├── Assets/
+│   ├── moflow-icon.png
+│   └── MoFlow Logo.png
+│
 └── Presentation/
     ├── MoFlow Case Study.pdf
     ├── Presentation Slides.pdf
@@ -223,8 +227,8 @@ This case study includes artefacts created across every major phase of the Busin
 |----------|-------|
 | Business Analysis | Jira |
 | UX Design | Figma |
-| Process Modelling | Draw.io |
-| Documentation | Microsoft Word, PDF |
+| Process Modelling | Figma |
+| Documentation | Google Docs, PDF |
 | Version Control | Git & GitHub |
 
 ---
@@ -278,12 +282,6 @@ Potential future enhancements include:
 # About This Project
 
 This project was created as a professional Business Analysis portfolio case study to demonstrate the complete lifecycle of analysing, documenting, designing, and planning the delivery of a digital product. While MoFlow is a fictional product, all artefacts follow industry-standard Business Analysis and Agile practices used in real software development projects.
-
----
-
-## Author
-
-**Reginald Erzoah**
 
 **Role:** Business Analyst | Data Analyst | Business Intelligence Analyst
 
