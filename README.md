@@ -178,7 +178,6 @@ This case study includes artefacts created across every major phase of the Busin
 ## User Research
 
 - User Personas
-- Persona Cards
 - User Journey Map
 - Empathy Map
 - User Research Summary
