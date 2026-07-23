@@ -102,7 +102,6 @@ MoFlow-Business-Analysis-Case-Study/
 │
 ├── User-Research/
 │   ├── User Personas.pdf
-│   ├── Persona Cards.png
 │   ├── User Journey Map.png
 │   ├── Empathy Map.png
 │   └── User Research Summary.pdf
