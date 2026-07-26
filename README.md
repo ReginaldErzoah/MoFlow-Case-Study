@@ -139,7 +139,7 @@ MoFlow-Business-Analysis-Case-Study/
 │   └── Release Plan.pdf
 │
 ├── Assets/
-│   ├── moflow-icon.png
+│   ├── MoFlow Icon.png
 │   ├── MoFlow Logo.png
 │   └── MoFlow Logo (B&W).png
 │
